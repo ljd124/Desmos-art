@@ -1,4 +1,4 @@
 # Desmos Art
 A collection of fun graphs in Desmos
 
-![](https://github.com/ljd124/Desmos-art/blob/main/Ripples%202.gif)
+![](https://github.com/ljd124/Desmos-art/blob/main/Ripples%204.gif)
